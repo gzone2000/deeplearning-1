@@ -1,1 +1,1 @@
-# deeplearning
+# Deep Learning Lecture Materials
